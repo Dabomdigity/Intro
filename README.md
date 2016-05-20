@@ -1,2 +1,2 @@
-# Intro
-It's an intro.
+# Semester 2
+Duh.
