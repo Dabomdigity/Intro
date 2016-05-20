@@ -1,2 +1,2 @@
 # Semester 2
-Duh.
+Contains a .zip of lots of C# files between IDE Visual Studio 2010 and 2012.
